@@ -8,8 +8,9 @@ We use simple english wikipedia dataset published from SBert.
 The dataset contains about 170K articles.
 After we processed it, it produce ~500K samples.
 
-References
+Don't forget to unzip the `.gz` file before running the notebook.
 
+References
 - https://www.sbert.net/
 - https://sbert.net/datasets
 
